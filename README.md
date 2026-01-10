@@ -1,6 +1,6 @@
 ![Gulp logo](http://i.imgur.com/RptJM5Q.png)
 
-# First of all, what is Gulp and how is going to affect my life?
+# dawn
 
 Gulp is an automation tool commonly for front and back-end web developers and it will speed up your development process because it does things automatically in background which you otherwise would have to do yourself manually without it, like: 
 
